@@ -1,0 +1,32 @@
+tittle{
+    color:#fff;
+    background-color: blue;
+    font-family: cursive;
+    font-size: 40px;
+}
+body{
+    background-image:  url(f60b9150-59fe-4594-a7f7-4db25a08c479.jpg);
+    font-family: cursive;
+   
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    
+
+}
+p1{
+    color: blue;
+    background-color: yellowgreen;
+}
+.btn{
+    border:1px solid#fff;
+    padding: 10px 30px;
+    color:#fff;
+    text-decoration: none ;
+    transition: 0.6s ease;
+}
+audio{
+    padding-top: 40px;
+}
+
